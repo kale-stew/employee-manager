@@ -10,10 +10,14 @@
 ## Tech Stack
 - `redux` for login
 - `react-native` app
-- `____` for auth
+- `firebase` for auth
 - `____` for db
 
 ## Features
 - custom styled modals 
 - interactive features: "text schedule"
 - secure db to store employee information
+
+## Notes 
+- we are using redux to persist state of authentication
+- states we will track: email, password, loading, error
