@@ -24,7 +24,7 @@
 - we are using redux to persist state of authentication
 - states we will track: email, password, loading, error
 - what's the difference between sync and async?
-    - synchornous: run the action, returns something immediately
+    - synchronous: run the action, returns something immediately
     - asynchronous: run the action, wait for something to happen, return data once that thing happens
 
 ### built following along Stephen Grider's React Native/Redux Udemy Course
