@@ -13,7 +13,7 @@
 - `redux-thunk`
 - `react-native` app
 - `firebase` for auth
-- `____` for db
+- `firebase` for db
 
 ## Features
 - custom styled modals 
