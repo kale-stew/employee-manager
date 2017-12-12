@@ -20,15 +20,15 @@
 
 #### Add New Employees
 
-<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/add-new.gif" width="100" >
+<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/add-new.gif" width="250" >
 
 #### Edit Employees
 
-<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/edit.gif" width="100" >
+<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/edit.gif" width="250" >
 
 #### Fire Employees
 
-<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/fire.gif" width="100" >
+<img src="https://github.com/kale-stew/employee-manager/blob/master/readme-assets/fire.gif" width="250" >
 
 ## Features
 - custom styled modals 
