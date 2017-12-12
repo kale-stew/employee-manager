@@ -42,4 +42,4 @@
     - synchronous: run the action, returns something immediately
     - asynchronous: run the action, wait for something to happen, return data once that thing happens
 
-### built following along Stephen Grider's React Native/Redux Udemy Course
+##### built following along Stephen Grider's React Native/Redux Udemy Course
