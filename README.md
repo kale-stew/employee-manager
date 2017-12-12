@@ -1,12 +1,12 @@
 # Employee Manager
 
-## What does this app do?
-- A manager can add employees to their roster 
-- A manager can log into the app
-- Create a schedule for the employees 
-- Text employees a schedule 
-- "Fire" employees = remove them from the list 
-    - "Are you sure you want to fire this employee?"
+## User Stories
+- As a user, I can add log into the app and add employees to my charge
+- As a user, I can click on employees on my list and edit their information
+- As a user, I can remove employees from my list
+- As a user, I can text employees about their scheduled shift
+- As a user, I can create new employees and new shifts
+- As a user, when I log back in my list of employees is the same as I left it
 
 ## Tech Stack
 - `redux` for login
