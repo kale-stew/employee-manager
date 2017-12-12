@@ -3,11 +3,11 @@ import { Text, View, Modal } from 'react-native';
 import { CardSection } from './CardSection';
 import { Button } from './Button';
 
-const Confirm = ({ visibile, children, onAccept, onDecline }) => {
+const Confirm = ({ children, visible, onAccept, onDecline }) => {
     const { cardSectionStyle, textStyle, containerStyle } = styles;
     return (
         <Modal
-            visibile={visibile}
+            visible={visible}
             transparent
             animationType="slide"
             onRequestClose={() => {}}
