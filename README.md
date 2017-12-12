@@ -16,6 +16,10 @@
 - `firebase` for db
 - `lodash` to access db info
 
+## Final Product
+
+![]()
+
 ## Features
 - custom styled modals 
 - interactive features: "text schedule"
