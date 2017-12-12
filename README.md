@@ -18,7 +18,17 @@
 
 ## Final Product
 
-![]()
+#### Add New Employees
+
+![add new](https://github.com/kale-stew/employee-manager/blob/master/readme-assets/add-new.gif)
+
+#### Edit Employees
+
+![edit](https://github.com/kale-stew/employee-manager/blob/master/readme-assets/edit.gif)
+
+#### Fire Employees
+
+![fire](https://github.com/kale-stew/employee-manager/blob/master/readme-assets/fire.gif)
 
 ## Features
 - custom styled modals 
