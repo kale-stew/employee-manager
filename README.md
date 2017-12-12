@@ -14,6 +14,7 @@
 - `react-native` app
 - `firebase` for auth
 - `firebase` for db
+- `lodash` to access db info
 
 ## Features
 - custom styled modals 
