@@ -1,5 +1,3 @@
-// wrap Card with CardSection to create separate divs on a mobile app
-
 import React from 'react';
 import { View } from 'react-native';
 

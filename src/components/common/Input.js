@@ -11,7 +11,7 @@ const Input = ({ label, value, onChangeText, placeholderText, secureTextEntry })
                style={ inputStyle }
                value={ value }
                onChangeText={ onChangeText }
-               autoCorrect={ false } // toggle dependent on use
+               autoCorrect={ false }
                placeholder={ placeholderText }
                secureTextEntry={secureTextEntry}
             />
@@ -25,21 +25,20 @@ const styles = {
         paddingRight: 5,
         paddingLeft: 5,
         fontSize: 18,
-        lineHeight: 23, // how much space is between each line of text?
+        lineHeight: 23,
         flex: 2
     },
 
     labelStyle: {
         fontSize: 18,
-        paddingLeft: 20, // stand away from the lefthand border
-        flex: 1 // flex property to relate siblings to eachother 
-        // add the values of flex to eachother to allocate space: 2/3 vs 1/3
+        paddingLeft: 20,
+        flex: 1
     },
 
     containerStyle: {
         height: 40,
         flex: 1,
-        flexDirection: 'row', // side by side instead of stacked 
+        flexDirection: 'row',
         alignItems: 'center'
     }
 };
